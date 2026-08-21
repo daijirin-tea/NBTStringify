@@ -1,6 +1,5 @@
 {
     "values": [
-        "vdp:load",
         "ssm:load",
         "nbtstringify:load"
     ]
